@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/praganoid-studio/prometheus/compare/v1.1.0...v1.1.1) (2026-03-09)
+
+
+### Bug Fixes
+
+* added readme file ([fcdc47b](https://github.com/praganoid-studio/prometheus/commit/fcdc47b07927c087bb3bfc3500f870b4645c1841))
+
 ## [1.1.0](https://github.com/praganoid-studio/prometheus/compare/v1.0.0...v1.1.0) (2026-03-09)
 
 
