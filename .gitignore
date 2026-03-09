@@ -1,0 +1,43 @@
+# Terraform state files (never commit - may contain secrets)
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.*
+
+# Terraform lock info (legacy)
+.terraform.tfstate.lock.info
+
+# Terraform downloaded providers and modules
+.terraform/
+
+# Saved plan files (may contain sensitive data)
+*.tfplan
+*.plan
+
+# Override files (local overrides, typically not shared)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Crash logs
+crash.log
+crash.*.log
+crash.log.*
+
+# Local Terraform config (may contain credentials)
+.terraformrc
+terraform.rc
+
+# IDE and editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.cursor/
