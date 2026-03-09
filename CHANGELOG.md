@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/praganoid-studio/prometheus/compare/v1.0.0...v1.1.0) (2026-03-09)
+
+
+### Features
+
+* added aws eks ([118aa26](https://github.com/praganoid-studio/prometheus/commit/118aa26c23899c17d151ee3dce5e156153526a4b))
+* added aws eks ([dc06ffe](https://github.com/praganoid-studio/prometheus/commit/dc06ffe3c3b22a85ad0da60817a5e26f5850cb9c))
+
 ## [1.0.0](https://github.com/praganoid-studio/prometheus/compare/v0.1.0...v1.0.0) (2026-03-09)
 
 
