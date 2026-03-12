@@ -11,6 +11,7 @@ Refer to each module's own `README.md` for detailed documentation on inputs, out
 | **[aws/vpc](aws/vpc/)** | AWS VPC with public/private subnets, NAT gateways, internet gateway, and route tables | [README](aws/vpc/README.md) |
 | **[aws/eks](aws/eks/)** | AWS EKS cluster with managed node groups, IAM, OIDC (IRSA), Fargate, and addons | [README](aws/eks/README.md) |
 | **[aws/ecs](aws/ecs/)** | AWS ECS cluster with services, Fargate/EC2 capacity providers, optional ALB, auto scaling, and CloudWatch logging | [README](aws/ecs/README.md) |
+| **[aws/ec2](aws/ec2/)** | AWS EC2 instances with Launch Templates, IAM, security groups, optional ASG, EBS, and EIP | [README](aws/ec2/README.md) |
 
 ## Quick Start
 
