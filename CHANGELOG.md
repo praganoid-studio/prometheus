@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/praganoid-studio/prometheus/compare/v1.1.1...v1.2.0) (2026-03-16)
+
+
+### Features
+
+* added ec2 modules ([07a5ffc](https://github.com/praganoid-studio/prometheus/commit/07a5ffca9a3f7ff338bf9d41f6a8ce01601bf75b))
+* added ecs modules ([4cf7952](https://github.com/praganoid-studio/prometheus/commit/4cf795277d2e1841cfd9614c8f81cec0602e1e49))
+
 ## [1.1.1](https://github.com/praganoid-studio/prometheus/compare/v1.1.0...v1.1.1) (2026-03-09)
 
 
